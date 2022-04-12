@@ -1,6 +1,5 @@
 - 👋**Hi, I’m Dami**
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently completing a master's course in Business Analytics
+- 👀 I’m interested in data analytics and operations
 - 📫 How to reach me: dami.os@outlook.com
 
 <!---
